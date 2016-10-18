@@ -1,0 +1,91 @@
+STEP translation to Solid Edge
+Date: terça-feira,outubro 18,2016 10:22
+Source File: Z:\1. Projectos\10. BEEKIT\GitHub\Step\Assem_eixo_X.stp
+Author: Unknown
+Organization: Unknown
+Source System: DEX
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-3537U CPU @ 2.00GHz
+Operating System: Windows 8 Professional
+Installed Memory: 7.88 GB
+
+Software Information
+Parasolid Version: 29.0.122
+PSBodyShop Version: 29.0.68
+Step Adapter Version: 2.0.152
+Solid Edge Version: 109.00.01.006 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: Z:\1. Projectos\10. BEEKIT\GitHub\Step
+Import Enable Default Output Path: On
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Assem_eixo_X.asm
+|--+Begin Assembly: 2
+|--+Created SE Assembly File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Pulleu_2M_20_Teeth_0.asm
+|  |--+Created SE Part File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Pulley_GT2_20_Tooth_0.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Assem_endstop_0.asm
+|  |--+Created SE Part File Z:\1. Projectos\10. BEEKIT\GitHub\Step\endstop_suport_V2_23102015_0.par
+|  |--+Created SE Part File Z:\1. Projectos\10. BEEKIT\GitHub\Step\endstop_0.par
+|--+Total Parts: 4
+|--+Assemblies: 0
+|--+Solid Bodies: 4
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Polia_livre_Montagem_0.asm
+|  |--+Created SE Part File Z:\1. Projectos\10. BEEKIT\GitHub\Step\7.0.2 - Polia_livre_0.par
+|  |--+Created SE Part File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Rolamento_638_4_2Z_2_03_0.par
+|--+Total Parts: 12
+|--+Assemblies: 0
+|--+Solid Bodies: 4
+|--+Sheet Bodies: 8
+|--+End Assembly: 2
+|--+Created SE Part File Z:\1. Projectos\10. BEEKIT\GitHub\Step\endstop_lever_V2_ajustavel_03102016_1.par
+|--+Created SE Part File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Femea_igus_1.par
+|--+Reusing File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Femea_igus_1.par
+|--+Created SE Part File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Espacador_Essentra_L7xd4.3xD8_0.par
+|--+Created SE Part File Z:\1. Projectos\10. BEEKIT\GitHub\Step\LU8MM_1.par
+|--+Reusing File Z:\1. Projectos\10. BEEKIT\GitHub\Step\LU8MM_1.par
+|--+Reusing File Z:\1. Projectos\10. BEEKIT\GitHub\Step\LU8MM_1.par
+|--+Reusing File Z:\1. Projectos\10. BEEKIT\GitHub\Step\LU8MM_1.par
+|--+Created SE Part File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Placa_Eixo_X1_1.par
+|--+Reusing File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Placa_Eixo_X1_1.par
+|--+Reusing File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Placa_Eixo_X1_1.par
+|--+Created SE Part File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Placa_Eixo_X3_1.par
+|--+Created SE Part File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Motor_Nema17_SY42STH47-1684A_0.par
+|--+Created SE Part File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Guia_M8_XPRT_1.par
+|--+Created SE Part File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Suporte_guias_1.par
+|--+Reusing File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Suporte_guias_1.par
+|--+Reusing File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Suporte_guias_1.par
+|--+Reusing File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Suporte_guias_1.par
+|--+Reusing File Z:\1. Projectos\10. BEEKIT\GitHub\Step\Guia_M8_XPRT_1.par
++Total Parts: 546
++Assemblies: 3
++Solid Bodies: 543
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 54
